@@ -28,8 +28,6 @@
 - 🏫 A **Junior** undergraduate at **Zhejiang University (ZJU)**, majoring in Computer Science.
 - 🔭 Passionate about **Large Language Models (LLMs)** and **High-Performance Computing (HPC)**, with a special focus on **MLSys**.
 - 🚀 Currently interning at **Seed Speech (ByteDance)** and researching at **ZIP Lab**.
-- 🌱 Building efficient inference & training systems — from **CUDA kernels** to **autoregressive generation**.
-- 📫 Reach me at **3230104546@zju.edu.cn**
 
 ### 🏆 Honors
 
@@ -61,30 +59,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lxazjk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lxazjk&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="top langs" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=lxazjk&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lxazjk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</div>
-
-<!-- ===== Contribution snake (needs the GitHub Action in .github/workflows/snake.yml) ===== -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxazjk/lxazjk/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxazjk/lxazjk/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/lxazjk/lxazjk/output/github-snake.svg" />
-  </picture>
-</div>
 
 <div align="center">
   <sub>⭐️ From <a href="https://github.com/lxazjk">lx_zjk</a></sub>
