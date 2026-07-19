@@ -25,7 +25,7 @@
 
 ### 🌟 About Me
 
-- 🏫 A **Junior** undergraduate at **Zhejiang University (ZJU)**, majoring in Computer Science.
+- 🏫 A **Junior** undergraduate at **Zhejiang University (ZJU)**, majoring in Computer Science, and a member of **[ZJUSCT](https://www.zjusct.io/)** — ZJU's Supercomputing Team.
 - 🔭 Passionate about **Large Language Models (LLMs)** and **High-Performance Computing (HPC)**, with a special focus on **MLSys**.
 - 🚀 Currently interning at **Seed Speech (ByteDance)** and researching at **ZIP Lab**.
 
