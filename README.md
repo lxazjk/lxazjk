@@ -2,7 +2,7 @@
 
 <!-- ===== Typing banner ===== -->
 <a href="https://github.com/lxazjk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=60&lines=Hi+there%2C+I'm+lx_zjk+%F0%9F%91%8B;LLMs+%C2%B7+HPC+%C2%B7+MLSys+enthusiast;CS+Junior+%40+Zhejiang+University;Building+efficient+ML+systems+%E2%9A%A1" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=60&lines=Hi+there%2C+I'm+lx_zjk+%F0%9F%91%8B;ML+Systems+%C2%B7+Multimodal+%C2%B7+HPC+enthusiast;CS+Junior+%40+Zhejiang+University;Building+efficient+ML+systems+%E2%9A%A1" alt="typing banner" />
 </a>
 
 <!-- ===== Subtitle badges ===== -->
@@ -26,7 +26,7 @@
 ### 🌟 About Me
 
 - 🏫 A **Junior** undergraduate at **Zhejiang University (ZJU)**, majoring in Computer Science, and a member of **[ZJUSCT](https://www.zjusct.io/)** — ZJU's Supercomputing Team.
-- 🔭 Passionate about **Large Language Models (LLMs)** and **High-Performance Computing (HPC)**, with a special focus on **MLSys**.
+- 🔭 Passionate about **ML Systems**, **Multimodal** learning, and **High-Performance Computing (HPC)**.
 - 🚀 Currently interning at **Seed Speech (ByteDance)** and researching at **ZIP Lab**.
 
 ### 🏆 Honors
