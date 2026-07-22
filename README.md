@@ -33,10 +33,9 @@
 
 | Competition | Achievement |
 | :--- | :--- |
-| 🌍 **ISC Student Cluster Competition** | Global **5th Place** |
-| ⚡ **ASC Student Supercomputer Challenge** | **Second Prize** |
 | 🥇 **ICPC & CCPC Regional** | **Gold Medalist** |
-
+| ⚡ **ASC Student Supercomputer Challenge** | **Second Prize** |
+| 🌍 **ISC Student Cluster Competition** | Global **5th Place** |
 ### 🛠️ Tech Stack
 
 **Languages**
